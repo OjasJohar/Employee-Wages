@@ -1,5 +1,6 @@
 //UC 11
 
+
 const WAGE_PER_HOUR = 20;
 const FULL_TIME_HOURS = 8;
 const PART_TIME_HOURS = 4;
